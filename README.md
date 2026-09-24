@@ -1,3 +1,3 @@
 # Goodbite's RA Resources
 ---
-Reference Dump/etc.
+check out the Wiki for the goods
